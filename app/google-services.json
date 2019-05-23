@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "project_number": "714280349375",
+    "firebase_url": "https://sniff-eb43f.firebaseio.com",
+    "project_id": "sniff-eb43f",
+    "storage_bucket": "sniff-eb43f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714280349375:android:8f783bec0264eef0",
+        "android_client_info": {
+          "package_name": "com.icesi.Sniff"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714280349375-e6d385ace48o8066v6l895191ff1mtg8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.icesi.Sniff",
+            "certificate_hash": "44d945a3d7dfede9a6cb9c6d35d8a4669ecfdb32"
+          }
+        },
+        {
+          "client_id": "714280349375-5pr8kqcftecrus9ba7ecl29v5ohvu6qk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.icesi.Sniff",
+            "certificate_hash": "d99607803ed343f79724b46fa6c128d6f52aee13"
+          }
+        },
+        {
+          "client_id": "714280349375-ktcg25f54i3ciu295cc8s2cfrskh47gr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.icesi.Sniff",
+            "certificate_hash": "53afc81c0fc29c8abd12b83b3b85ed7a7cc0f252"
+          }
+        },
+        {
+          "client_id": "714280349375-hhpl1dgvck8bqlj3v8hge9uku9lpo1mp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.icesi.Sniff",
+            "certificate_hash": "2503cacadf2cc5bc4cc6ca536dd3510ec031604d"
+          }
+        },
+        {
+          "client_id": "714280349375-43vj0ofhghsqku40s3u9eu5q26v9qqvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY-zzrAIG4Et7kYGDkOP26TBB7oxaU8Bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714280349375-43vj0ofhghsqku40s3u9eu5q26v9qqvk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714280349375:android:ebdb220a73e2edb5",
+        "android_client_info": {
+          "package_name": "com.landa.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714280349375-ek22h1t6qfs8if45s85ig3v8623eb4a7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.landa.firebase",
+            "certificate_hash": "2503cacadf2cc5bc4cc6ca536dd3510ec031604d"
+          }
+        },
+        {
+          "client_id": "714280349375-43vj0ofhghsqku40s3u9eu5q26v9qqvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY-zzrAIG4Et7kYGDkOP26TBB7oxaU8Bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714280349375-43vj0ofhghsqku40s3u9eu5q26v9qqvk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
